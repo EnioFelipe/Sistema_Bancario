@@ -19,4 +19,6 @@ O sistema apresenta um menu com funcionalidades como: Depósito, saque, extrato 
 ### Extrato:
 - Se não houver movimentações, exibe uma mensagem, caso houver exibir o extrato.
 
-OBS: Essa é a primeira versão do sistema, referente as funcionalidades apresentadas no primeiro módulo do curso.
+## Observações:
+
+- Essa é a primeira versão do sistema, referente as funcionalidades apresentadas no primeiro módulo do curso.
