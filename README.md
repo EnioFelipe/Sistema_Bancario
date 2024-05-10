@@ -54,6 +54,6 @@ O sistema apresenta um menu com as seguintes funcionalidades:
 
 - Não existem restrições específicas para a operação de listar contas.
 
-## Como Executar
+## Observações
 
-Para executar o sistema, basta rodar o arquivo principal `main.py`.
+Este é um sistema em constante desenvolvimento, com funcionalidades adicionais planejadas para futuras versões.
